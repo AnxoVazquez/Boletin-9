@@ -11,7 +11,7 @@ public class Boletin9_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] numeros = new int[10];
-        int pos = 0, neg = 0, cero = 0; //contadores
+        int pos = 0, neg = 0, cero = 0;
         int i;
        
         System.out.println("Lectura de los elementos del array: ");
